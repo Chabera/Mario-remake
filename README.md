@@ -3,15 +3,6 @@
 
 > Open this page at [https://chabera.github.io/skakacka-d/](https://chabera.github.io/skakacka-d/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/chabera/skakacka-d** and import
-
 ## Edit this project ![Build status badge](https://github.com/chabera/skakacka-d/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
