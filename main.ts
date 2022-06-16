@@ -5,6 +5,7 @@ namespace SpriteKind {
 sprites.onOverlap(SpriteKind.Player, SpriteKind.mince_t, function (sprite, otherSprite) {
     otherSprite.destroy()
     info.changeScoreBy(1)
+    music.baDing.play()
 })
 scene.onOverlapTile(SpriteKind.Player, assets.tile`myTile1`, function (sprite, location) {
     level = 1
